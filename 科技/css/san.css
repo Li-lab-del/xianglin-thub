@@ -1,0 +1,66 @@
+#main{
+	width: 1080px;
+		margin: 0 auto;
+		height: 2000px;
+		border: 3px solid rebeccapurple;
+}
+body{
+	font-family: "华文新魏";
+}
+.header{
+	color: darkgreen;
+	font-size: 30px;
+	background-color: azure;
+	padding: 20px;
+	margin: 20px;
+}
+.header span{
+	color: darkblue;
+	font-size: 50px;
+}
+.img1{
+	width: 500px;
+	height: 260px;
+	border-radius: 30px;
+}
+.header p{
+	color: chocolate;
+}
+.left{
+	background-color: blanchedalmond;
+	width: 270px;
+	height: 980px;
+	font-size: 30px;
+	font-family: "华文新魏";
+	float: right;
+	padding: 10px;
+	
+}
+.middle{
+	background-color: gainsboro;
+	width:480px;
+	height: 980px;
+	font-size: 30px;s
+	font-family: "华文新魏";
+	float: right;
+	padding: 10px;
+}
+.right{
+	background-color: bisque;
+	font-size: 30px;
+	float: right;
+	width: 270px;
+	height: 980px;
+	padding: 10px;
+}
+.footer{
+	background-color: gainsboro;
+	font-size: 20px;
+	height: 258px;
+	clear: both;
+	
+}
+.footer p{
+	color: dodgerblue;
+	font-size: 27px;
+}

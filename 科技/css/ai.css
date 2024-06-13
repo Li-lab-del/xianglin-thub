@@ -1,0 +1,76 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+#main{
+	width: 1080px;
+	margin: 0 auto;
+	height: 600px;
+}
+body{
+	background-color: aliceblue;
+	font-family: "华文新魏";
+}
+.biaoti{
+				text-align: center;
+				color: cornflowerblue;
+				font-size: 40px;
+				font-style: italic;
+				text-decoration: underline;
+}
+.biaoti h2{
+	text-align: center;
+	font-size: 50px;
+}
+.biaoti p{
+	text-align="center";
+	font-family="华文行楷";
+	font-size: 30px;
+	color: purple;
+	text-decoration:none;
+}
+.img {
+				text-align: center;
+				width: 480px;
+				height: 350px;
+}
+.jieshao p{
+	font-family: "华文新魏";
+	color: orange;
+	font-size: 30px;
+}
+.jieshao strong{
+	font-family: "华文新魏";
+	color: rebeccapurple;
+	font-size: 30px;
+}
+			
+.erbufen h3{
+	font-family: "华文行楷";
+	color: darkseagreen;
+	font-size: 40px;
+}
+.erbufen p{
+	text-align: left;
+	color: cornflowerblue;;
+	font-size: 30px;
+}
+.sanbufen {	
+	font-family: "华文行楷";
+	color: darkseagreen;
+	font-size: 40px;
+}
+.sanbufen h3{
+	font-family: "华文行楷";
+	color: darkseagreen;
+	font-size: 40px;
+}
+.sanbufen p{
+	text-align: right;
+	
+}
+.aqua {
+				width: 1080px;
+				color: blue;
+				font-size: 45px;	
+}

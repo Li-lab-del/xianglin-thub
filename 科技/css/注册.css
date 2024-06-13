@@ -1,0 +1,113 @@
+*{margin: 0 ;
+padding: 0;
+list-style: none;
+outline: none;
+border: 0;
+background: none;
+}
+body{
+	font-family: "微软雅黑";
+	font-size: 14px;
+}
+a:link,a:visited{
+	text-decoration: none;
+	color: #fff;
+	font-size: 16px;
+}
+#head{
+	width: 980px;
+	height: 100px;
+	margin: 0 auto;
+	padding-top: 10px;
+}
+#nav_bg{
+	width: 980px;
+	height: 48px;
+	margin: 0 auto;
+	background: skyblue;
+}
+.nav{
+	width: 850px;
+	margin: 0 auto;
+}
+.nav li{
+	float: left;
+}
+a{
+	display: inline-block;
+	height: 48px;
+	padding: 0 50px;
+	line-height: 48px;
+}
+.bg{
+	background:#FE9AB5;
+}
+a:hover{
+	background: #FE9AB5;
+}
+#banner{
+	width: 980px;
+	height: 400px;
+	margin: 0 auto;
+	opacity: 0.9;
+}
+#content{
+	width: 800px;
+	height: 934px;
+	background:powderblue;
+	margin: 0 auto;
+	padding-left: 150px;
+}
+.step{
+	width: 460px;
+	height: 80px;
+	font-size: 25px;
+	font-weight: 180px;
+	color: #dd8787;
+	background: url("../img/注册/step.jpg") center right no-repeat;
+	line-height: 75px;
+}
+h3{
+	width: 444px;
+	height: 40px;
+	color: darkblue;
+	font-size: 20px;
+	font-weight: 200px;
+	line-height: 30px;
+	border-bottom: 1.5px solid #dd8787;
+}
+td{
+	height: 50px;
+	color: darkcyan;
+	font-weight: 300px;
+}
+.left{
+	width: 100px;
+	color: slateblue;
+	font-weight: 300px;
+}
+.right{
+	width: 320px;
+	height: 28px;
+	border: 2px solid #dd8787;
+}
+input{
+	vertical-align: middle;
+}
+select{
+	width: 150px;
+	border: 2px solid #dd8787;
+}
+textarea{
+	width: 350px;
+	border: 1.5px solid #dd8787;
+	resize: none;
+	font-size: 12px;
+	color: mediumblue;
+	padding: 10px;
+}
+.btn{
+	width: 408px;
+	height: 76px;
+	background: url("../img/注册/btn.jpg") right center no-repeat;
+}
